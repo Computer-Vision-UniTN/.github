@@ -45,7 +45,7 @@ The assignment is designed to:
 For each task in the assignment:
 
 - 💡 You will find hints to guide your solution if you need help
-- 👀 You will find a solution outline written in bullet points to help you structure your approach if you have no idea on how to implement it
+- 👀 If you are unsure how to approach the implementation, you will also find a structured solution outline in bullet points to help you organize your reasoning
 
 These elements are provided in spoiler format, so you can decide whether to reveal them. **We strongly suggest to first attempt each exercise independently.** If you feel stuck, you may choose to open the spoilers progressively: first the hints, and only later the solution outline.
 
