@@ -17,6 +17,8 @@ If you have a laptop and you are comfortable setting up a Python environment on 
 
 Otherwise, you can use the official Lightning AI course page, where all the laboratory environments are already configured and ready to use. This is the recommended option if you prefer not to deal with installations or environment configuration.
 
+### [Official Lightning AI course page](https://lightning.ai/computervisionlab)
+
 ## 🧪 Laboratory Structure
 
 All laboratory sessions run on **Lightning AI**, our shared cloud workspace for the course. This means you don’t have to install anything on your computer or worry about configuration problems. No setup headaches, no version conflicts — just open the environment and start coding.
