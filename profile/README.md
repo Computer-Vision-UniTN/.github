@@ -13,7 +13,7 @@ Go to Lightning AI and click on Sign Up.
 
 ‼️ Register using your university email address. By signing up with your institutional email, you can access the student free plan, which is completely sufficient for this course. No payment is required.
 
-If you have a laptop and you are comfortable setting up a Python environment on your own, you are free to work locally on your machine. In that case, you can simply clone the lab repositories from the course GitHub organization and run everything locally.
+If you have a laptop and you are comfortable setting up a Python environment on your own, you are free to work locally on your machine. In that case, you can simply clone the lab repositories from this GitHub organization and run everything locally.
 
 Otherwise, you can use the official Lightning AI course page, where all the laboratory environments are already configured and ready to use. This is the recommended option if you prefer not to deal with installations or environment configuration.
 
